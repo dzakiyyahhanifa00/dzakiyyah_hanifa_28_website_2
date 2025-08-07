@@ -1,5 +1,5 @@
 :root {
-    
+
   --hoockers-green_20: hsl(148, 20%, 38%, 0.2);
   --pale-spring-bud: hsl(60, 68%, 85%);
   --hoockers-green: hsl(148, 20%, 38%);
@@ -300,8 +300,6 @@ body {
   transform: translateY(0);
   opacity: 1;
 }
-
-
 
 
 /* head */
